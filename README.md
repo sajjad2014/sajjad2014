@@ -1,5 +1,5 @@
-- I’m Sajjad Shahabi, a Computer Engineering student at Sharif University of Technology.
-- I’m interested in Deep Learning applications in Computer Vision and Natural Language Processing.
+- I’m Sajjad Shahabi, a Computer Science student at the University of Southern California.
+- I’m interested in Deep Learning applications in Computer Vision and Generative Models.
 
 <!---
 sajjad2014/sajjad2014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
